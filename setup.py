@@ -11,6 +11,7 @@ setup(
     packages=[
         "brats",
         "hn",
-        "adni"
+        "adni",
+        "ecg"
     ],
 )
